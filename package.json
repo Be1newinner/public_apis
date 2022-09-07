@@ -1,0 +1,23 @@
+{
+  "name": "public_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Be1newinner/public_apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.17.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Be1newinner/public_apis/issues"
+  },
+  "homepage": "https://github.com/Be1newinner/public_apis#readme"
+}
